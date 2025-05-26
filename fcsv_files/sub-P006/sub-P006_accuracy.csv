@@ -1,0 +1,9 @@
+electrode,euclid_dist_target,radial_dist_target,euclid_dist_entry,radial_dist_entry,radial_angle,line_angle
+RPreFr,1.51,1.48,1.19,1.16,2.98,0.99
+RASSMAV,1.33,0.83,0.68,0.37,1.35,1.59
+RPSSMA,1.2,0.52,1.06,1.03,0.7,0.96
+RCen,1.29,0.39,1.03,0.97,0.46,1.07
+RMidPar,1.99,1.59,0.95,0.8,2.07,1.31
+RASSMAH,0.84,0.65,0.99,0.9,1.11,1.51
+RPreCen,1.14,1.07,1.11,0.84,1.2,0.27
+RPostCen,1.02,0.55,0.92,0.8,0.6,0.28

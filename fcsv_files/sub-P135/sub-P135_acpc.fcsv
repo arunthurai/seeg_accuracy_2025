@@ -1,0 +1,5 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,10.8380,-6.1250,-7.1000,0,0,0,1,1,1,1,ac,,
+2,8.1460,-29.9730,-6.5650,0,0,0,1,1,1,1,pc,,

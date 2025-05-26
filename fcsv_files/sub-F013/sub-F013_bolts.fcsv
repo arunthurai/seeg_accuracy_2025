@@ -1,0 +1,27 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,61.342886,57.415968,-2.312756,0,0,0,1,1,1,1,inner,RAm,vtkMRMLScalarVolumeNode2
+2,63.022215,57.608605,-2.459456,0,0,0,1,1,1,1,outer,RAm,vtkMRMLScalarVolumeNode2
+3,82.554452,59.078050,-3.521090,0,0,0,1,1,1,1,bolt,RAm,vtkMRMLScalarVolumeNode2
+4,64.818976,45.572726,-0.819564,0,0,0,1,1,1,1,inner,RAHc,vtkMRMLScalarVolumeNode2
+5,67.166579,45.426071,-0.579457,0,0,0,1,1,1,1,outer,RAHc,vtkMRMLScalarVolumeNode2
+6,87.173653,43.997033,0.588577,0,0,0,1,1,1,1,bolt,RAHc,vtkMRMLScalarVolumeNode2
+7,65.292029,27.957564,0.285902,0,0,0,1,1,1,1,inner,RPHc,vtkMRMLScalarVolumeNode2
+8,71.927810,27.232218,-0.603751,0,0,0,1,1,1,1,outer,RPHc,vtkMRMLScalarVolumeNode2
+9,86.433906,26.012572,-1.792184,0,0,0,1,1,1,1,bolt,RPHc,vtkMRMLScalarVolumeNode2
+10,53.847045,70.275654,9.231968,0,0,0,1,1,1,1,inner,RAIn,vtkMRMLScalarVolumeNode2
+11,59.183584,70.419854,9.555576,0,0,0,1,1,1,1,outer,RAIn,vtkMRMLScalarVolumeNode2
+12,83.948375,71.319159,9.135746,0,0,0,1,1,1,1,bolt,RAIn,vtkMRMLScalarVolumeNode2
+13,62.355139,51.218558,15.314571,0,0,0,1,1,1,1,inner,RT1In,vtkMRMLScalarVolumeNode2
+14,67.466956,51.181184,15.518948,0,0,0,1,1,1,1,outer,RT1In,vtkMRMLScalarVolumeNode2
+15,93.087128,50.263507,15.317886,0,0,0,1,1,1,1,bolt,RT1In,vtkMRMLScalarVolumeNode2
+16,61.628499,43.258736,38.051166,0,0,0,1,1,1,1,inner,RPaOp,vtkMRMLScalarVolumeNode2
+17,65.376537,43.048712,39.577268,0,0,0,1,1,1,1,outer,RPaOp,vtkMRMLScalarVolumeNode2
+18,80.335195,42.838868,44.282266,0,0,0,1,1,1,1,bolt,RPaOp,vtkMRMLScalarVolumeNode2
+19,58.940882,58.658675,34.188678,0,0,0,1,1,1,1,inner,RSIn,vtkMRMLScalarVolumeNode2
+20,62.865260,58.783681,35.551248,0,0,0,1,1,1,1,outer,RSIn,vtkMRMLScalarVolumeNode2
+21,86.791125,58.051197,43.322258,0,0,0,1,1,1,1,bolt,RSIn,vtkMRMLScalarVolumeNode2
+22,63.980519,34.557228,22.882308,0,0,0,1,1,1,1,inner,RPTe,vtkMRMLScalarVolumeNode2
+23,69.171233,34.799156,22.747258,0,0,0,1,1,1,1,outer,RPTe,vtkMRMLScalarVolumeNode2
+24,86.126144,35.291183,21.781895,0,0,0,1,1,1,1,bolt,RPTe,vtkMRMLScalarVolumeNode2
