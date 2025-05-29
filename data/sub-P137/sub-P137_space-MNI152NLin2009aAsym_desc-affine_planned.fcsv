@@ -1,0 +1,29 @@
+# Markups fiducial file version = 4.11
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,13.3,-5.2,-22.4,0,0,0,0,1,1,1,RAm,elec_type,vtkMRMLScalarVolumeNode2
+2,62.6,2.9,-27.7,0,0,0,0,1,1,1,RAm,elec_type,vtkMRMLScalarVolumeNode2
+3,20.8,-17.0,-19.8,0,0,0,0,1,1,1,RAHc,elec_type,vtkMRMLScalarVolumeNode2
+4,71.9,-17.1,-15.6,0,0,0,0,1,1,1,RAHc,elec_type,vtkMRMLScalarVolumeNode2
+5,27.0,-32.4,-11.6,0,0,0,0,1,1,1,RPHc,elec_type,vtkMRMLScalarVolumeNode2
+6,72.0,-33.9,-8.9,0,0,0,0,1,1,1,RPHc,elec_type,vtkMRMLScalarVolumeNode2
+7,23.0,-48.9,-10.4,0,0,0,0,1,1,1,RLg,elec_type,vtkMRMLScalarVolumeNode2
+8,66.8,-45.0,-12.9,0,0,0,0,1,1,1,RLg,elec_type,vtkMRMLScalarVolumeNode2
+9,26.4,-55.4,-3.6,0,0,0,0,1,1,1,RLs,elec_type,vtkMRMLScalarVolumeNode2
+10,59.8,-63.4,-1.6,0,0,0,0,1,1,1,RLs,elec_type,vtkMRMLScalarVolumeNode2
+11,2.4,-38.3,29.3,0,0,0,0,1,1,1,RPaPCg,elec_type,vtkMRMLScalarVolumeNode2
+12,70.2,-40.2,21.3,0,0,0,0,1,1,1,RPaPCg,elec_type,vtkMRMLScalarVolumeNode2
+13,3.7,27.2,-16.6,0,0,0,0,1,1,1,ROFr,elec_type,vtkMRMLScalarVolumeNode2
+14,50.3,49.7,5.7,0,0,0,0,1,1,1,ROFr,elec_type,vtkMRMLScalarVolumeNode2
+15,3.0,-71.2,21.5,0,0,0,0,1,1,1,ROSupC,elec_type,vtkMRMLScalarVolumeNode2
+16,58.1,-68.1,15.5,0,0,0,0,1,1,1,ROSupC,elec_type,vtkMRMLScalarVolumeNode2
+17,6.0,-68.3,4.5,0,0,0,0,1,1,1,ROInfC,elec_type,vtkMRMLScalarVolumeNode2
+18,47.2,-83.2,10.0,0,0,0,0,1,1,1,ROInfC,elec_type,vtkMRMLScalarVolumeNode2
+19,36.0,5.9,-14.7,0,0,0,0,1,1,1,RAIn,elec_type,vtkMRMLScalarVolumeNode2
+20,9.4,32.4,70.2,0,0,0,0,1,1,1,RAIn,elec_type,vtkMRMLScalarVolumeNode2
+21,-25.6,-32.8,-9.4,0,0,0,0,1,1,1,LPHc,elec_type,vtkMRMLScalarVolumeNode2
+22,-70.3,-38.4,-13.6,0,0,0,0,1,1,1,LPHc,elec_type,vtkMRMLScalarVolumeNode2
+23,-9.0,-64.8,4.9,0,0,0,0,1,1,1,LOInfC,elec_type,vtkMRMLScalarVolumeNode2
+24,-49.4,-84.6,10.6,0,0,0,0,1,1,1,LOInfC,elec_type,vtkMRMLScalarVolumeNode2
+25,-19.1,-17.0,-19.4,0,0,0,0,1,1,1,LAHc,elec_type,vtkMRMLScalarVolumeNode2
+26,-73.8,-22.2,-15.1,0,0,0,0,1,1,1,LAHc,elec_type,vtkMRMLScalarVolumeNode2

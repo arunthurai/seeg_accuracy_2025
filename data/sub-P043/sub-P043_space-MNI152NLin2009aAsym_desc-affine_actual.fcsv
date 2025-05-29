@@ -1,0 +1,31 @@
+# Markups fiducial file version = 4.11
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,36.1,-51.7,15.0,0,0,0,0,1,1,1,RILs,elec_type,vtkMRMLScalarVolumeNode2
+2,56.9,-66.3,20.4,0,0,0,0,1,1,1,RILs,elec_type,vtkMRMLScalarVolumeNode2
+3,19.8,-15.2,-20.8,0,0,0,0,1,1,1,RHc,elec_type,vtkMRMLScalarVolumeNode2
+4,69.7,-12.6,-20.2,0,0,0,0,1,1,1,RHc,elec_type,vtkMRMLScalarVolumeNode2
+5,7.0,31.0,18.9,0,0,0,0,1,1,1,RACg,elec_type,vtkMRMLScalarVolumeNode2
+6,39.9,44.5,31.3,0,0,0,0,1,1,1,RACg,elec_type,vtkMRMLScalarVolumeNode2
+7,6.7,2.0,36.9,0,0,0,0,1,1,1,RIFr,elec_type,vtkMRMLScalarVolumeNode2
+8,51.2,17.3,46.6,0,0,0,0,1,1,1,RIFr,elec_type,vtkMRMLScalarVolumeNode2
+9,20.2,0.1,50.8,0,0,0,0,1,1,1,RFEF,elec_type,vtkMRMLScalarVolumeNode2
+10,35.6,3.9,66.8,0,0,0,0,1,1,1,RFEF,elec_type,vtkMRMLScalarVolumeNode2
+11,8.4,7.4,30.6,0,0,0,0,1,1,1,RASMA,elec_type,vtkMRMLScalarVolumeNode2
+12,8.0,23.0,70.0,0,0,0,0,1,1,1,RASMA,elec_type,vtkMRMLScalarVolumeNode2
+13,12.4,-9.9,39.4,0,0,0,0,1,1,1,RPSMA,elec_type,vtkMRMLScalarVolumeNode2
+14,10.5,-8.7,85.8,0,0,0,0,1,1,1,RPSMA,elec_type,vtkMRMLScalarVolumeNode2
+15,-6.6,7.3,47.6,0,0,0,0,1,1,1,LSMA,elec_type,vtkMRMLScalarVolumeNode2
+16,-21.8,10.6,75.0,0,0,0,0,1,1,1,LSMA,elec_type,vtkMRMLScalarVolumeNode2
+17,3.8,-42.8,30.6,0,0,0,0,1,1,1,RALs,elec_type,vtkMRMLScalarVolumeNode2
+18,62.4,-46.8,34.1,0,0,0,0,1,1,1,RALs,elec_type,vtkMRMLScalarVolumeNode2
+19,35.1,-59.6,22.8,0,0,0,0,1,1,1,RPLs,elec_type,vtkMRMLScalarVolumeNode2
+20,34.7,-80.9,39.9,0,0,0,0,1,1,1,RPLs,elec_type,vtkMRMLScalarVolumeNode2
+21,8.4,-54.9,27.3,0,0,0,0,1,1,1,RSLs,elec_type,vtkMRMLScalarVolumeNode2
+22,47.8,-53.6,58.7,0,0,0,0,1,1,1,RSLs,elec_type,vtkMRMLScalarVolumeNode2
+23,0.6,-51.8,52.5,0,0,0,0,1,1,1,RPc,elec_type,vtkMRMLScalarVolumeNode2
+24,9.5,-55.8,73.1,0,0,0,0,1,1,1,RPc,elec_type,vtkMRMLScalarVolumeNode2
+25,3.9,-79.1,10.7,0,0,0,0,1,1,1,ROc,elec_type,vtkMRMLScalarVolumeNode2
+26,26.0,-93.1,27.6,0,0,0,0,1,1,1,ROc,elec_type,vtkMRMLScalarVolumeNode2
+27,2.3,-34.7,61.9,0,0,0,0,1,1,1,RPCe,elec_type,vtkMRMLScalarVolumeNode2
+28,40.6,-28.5,69.8,0,0,0,0,1,1,1,RPCe,elec_type,vtkMRMLScalarVolumeNode2
