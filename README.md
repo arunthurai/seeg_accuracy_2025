@@ -1,4 +1,6 @@
-Repository containing the coordinate data and notebook for stereoelectroencephalography (SEEG) implantations from 2008-2025. The project is managed using  [uv](https://github.com/astral-sh/uv), which provides fast dependency resolution and environment management.
+Repository containing the coordinate data and notebook for robot-assisted stereoelectroencephalography (SEEG) implantations from 2017-2024, totalling 246 subjects and 2658 trajectories. This also includes a subset of 28 patients (289) between 2013-2017 who were implanted in a traditional frame based method, without assistance of the robot.
+
+The project is managed using  [uv](https://github.com/astral-sh/uv), which provides fast dependency resolution and environment management.
 
 To work on the repository, first install `uv`. On macOS and Linux, run:
 
