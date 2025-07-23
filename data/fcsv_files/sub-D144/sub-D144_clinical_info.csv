@@ -1,7 +1,7 @@
-label,scalp_dura,trajectory,entry_ang
-RACg,,,13.580
-RAFrTu,,,46.736
-RPFrTu,,,45.566
-RAOFr,,,38.867
-LCeOp,,,16.715
-RPOp,,,3.211
+label,scalp_dura,trajectory
+RACg,10.53,50.7
+RAFrTu,17.07,45.8
+RPFrTu,15.78,50.9
+RAOFr,17.33,55.2
+LCeOp,14.11,20.7
+RPOp,10.55,27.8

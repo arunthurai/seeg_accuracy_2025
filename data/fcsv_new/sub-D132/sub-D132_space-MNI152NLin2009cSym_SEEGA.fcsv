@@ -1,4 +1,4 @@
-# Markups fiducial file version = 4.11
+# Markups fiducial file version = GG
 # CoordinateSystem = RAS
 # columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
 1,-6.42679,35.4014,14.4304,0,0,0,1,1,1,1,LACg-01,RD10R-SP04X,
