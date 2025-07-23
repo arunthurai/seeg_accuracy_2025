@@ -1,0 +1,31 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,22.3067,-21.9499,-20.2018,0,0,0,1,1,1,1,RAHc,,vtkMRMLScalarVolumeNode4
+2,68.6907,-22.1194,-15.3823,0,0,0,1,1,1,1,RAHc,,vtkMRMLScalarVolumeNode4
+3,18.8651,-34.2671,-7.03885,0,0,0,1,1,1,1,RPHc,,vtkMRMLScalarVolumeNode4
+4,67.1896,-43.0185,-13.7975,0,0,0,1,1,1,1,RPHc,,vtkMRMLScalarVolumeNode4
+5,30.117,-22.6911,4.10727,0,0,0,1,1,1,1,RPTeOp,,vtkMRMLScalarVolumeNode4
+6,68.2877,-45.0069,8.77085,0,0,0,1,1,1,1,RPTeOp,,vtkMRMLScalarVolumeNode4
+7,31.8329,-32.1989,22.8682,0,0,0,1,1,1,1,RPPaOp,,vtkMRMLScalarVolumeNode4
+8,66.2088,-26.7791,38.4401,0,0,0,1,1,1,1,RPPaOp,,vtkMRMLScalarVolumeNode4
+9,3.14102,24.062,21.4571,0,0,0,1,1,1,1,RACg,,vtkMRMLScalarVolumeNode4
+10,54.4412,23.0155,31.7655,0,0,0,1,1,1,1,RACg,,vtkMRMLScalarVolumeNode4
+11,27.9634,20.7834,14.5543,0,0,0,1,1,1,1,RAFrOp,,vtkMRMLScalarVolumeNode4
+12,57.5773,18.6939,13.6004,0,0,0,1,1,1,1,RAFrOp,,vtkMRMLScalarVolumeNode4
+13,32.4896,-19.4019,20.589,0,0,0,1,1,1,1,RAPaOp,,vtkMRMLScalarVolumeNode4
+14,66.153,-12.3281,22.202,0,0,0,1,1,1,1,RAPaOp,,vtkMRMLScalarVolumeNode4
+15,1.92734,20.4211,-16.5013,0,0,0,1,1,1,1,ROFr,,vtkMRMLScalarVolumeNode4
+16,53.2131,33.8148,-6.6217,0,0,0,1,1,1,1,ROFr,,vtkMRMLScalarVolumeNode4
+17,33.8321,14.6587,-11.6104,0,0,0,1,1,1,1,RAIn,,vtkMRMLScalarVolumeNode4
+18,10.4069,49.9615,48.2066,0,0,0,1,1,1,1,RAIn,,vtkMRMLScalarVolumeNode4
+19,37.8617,6.1633,-11.7939,0,0,0,1,1,1,1,RMIn,,vtkMRMLScalarVolumeNode4
+20,8.8204,7.25744,75.993,0,0,0,1,1,1,1,RMIn,,vtkMRMLScalarVolumeNode4
+21,34.6013,3.86689,-11.9644,0,0,0,1,1,1,1,RPIn,,vtkMRMLScalarVolumeNode4
+22,10.3098,-65.5039,71.5019,0,0,0,1,1,1,1,RPIn,,vtkMRMLScalarVolumeNode4
+23,-18.9271,-13.3852,-19.8493,0,0,0,1,1,1,1,LAHc,,vtkMRMLScalarVolumeNode4
+24,-72.2279,-19.8985,-15.8288,0,0,0,1,1,1,1,LAHc,,vtkMRMLScalarVolumeNode4
+25,-37.8624,6.81254,-12.234,0,0,0,1,1,1,1,LAIn,,vtkMRMLScalarVolumeNode4
+26,-8.83081,32.5444,62.1672,0,0,0,1,1,1,1,LAIn,,vtkMRMLScalarVolumeNode4
+27,31.663,-10.1937,-0.799103,0,0,0,1,1,1,1,RATeOp,,vtkMRMLScalarVolumeNode4
+28,64.2692,-13.8659,-0.305981,0,0,0,1,1,1,1,RATeOp,,vtkMRMLScalarVolumeNode4

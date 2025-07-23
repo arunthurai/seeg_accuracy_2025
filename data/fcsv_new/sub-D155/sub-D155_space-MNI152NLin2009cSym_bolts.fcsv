@@ -1,0 +1,36 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,10.2943,46.6843,52.9318,0,0,0,1,1,1,1,inner,RAIn,
+2,8.67114,49.2597,57.2954,0,0,0,1,1,1,1,outer,RAIn,
+3,1.43115,58.6997,74.5796,0,0,0,1,1,1,1,bolt,RAIn,
+4,21.0727,-61.7218,71.1714,0,0,0,1,1,1,1,inner,RPIn,
+5,19.4581,-65.2545,76.9341,0,0,0,1,1,1,1,outer,RPIn,
+6,14.5979,-80.0547,98.4504,0,0,0,1,1,1,1,bolt,RPIn,
+7,69.8614,-25.1644,20.3337,0,0,0,1,1,1,1,inner,RPaOp,
+8,75.6003,-24.6927,20.6127,0,0,0,1,1,1,1,outer,RPaOp,
+9,95.3429,-25.8447,22.7898,0,0,0,1,1,1,1,bolt,RPaOp,
+10,72.2223,-26.3798,7.18472,0,0,0,1,1,1,1,inner,RT1PIn,
+11,77.9443,-26.4779,7.52805,0,0,0,1,1,1,1,outer,RT1PIn,
+12,97.58,-27.595,11.657,0,0,0,1,1,1,1,bolt,RT1PIn,
+13,67.401,3.0869,6.47329,0,0,0,1,1,1,1,inner,RFrOp,
+14,73.8474,2.49915,6.4582,0,0,0,1,1,1,1,outer,RFrOp,
+15,101.138,-0.724791,7.6514,0,0,0,1,1,1,1,bolt,RFrOp,
+16,59.261,36.0968,-4.17741,0,0,0,1,1,1,1,inner,ROFr,
+17,62.3189,35.6752,-3.43181,0,0,0,1,1,1,1,outer,ROFr,
+18,82.0153,30.4794,2.99316,0,0,0,1,1,1,1,bolt,ROFr,
+19,57.502,31.5372,-9.16673,0,0,0,1,1,1,1,inner,RFrCg,vtkMRMLScalarVolumeNode1
+20,59.5673,31.5209,-9.06402,0,0,0,1,1,1,1,outer,RFrCg,vtkMRMLScalarVolumeNode1
+21,87.5131,33.1013,-8.57058,0,0,0,1,1,1,1,bolt,RFrCg,vtkMRMLScalarVolumeNode1
+22,72.6643,-45.7852,-4.29103,0,0,0,1,1,1,1,inner,RPHc,vtkMRMLScalarVolumeNode1
+23,75.9369,-46.7103,-3.59475,0,0,0,1,1,1,1,outer,RPHc,vtkMRMLScalarVolumeNode1
+24,95.7192,-55.2726,1.24728,0,0,0,1,1,1,1,bolt,RPHc,vtkMRMLScalarVolumeNode1
+25,75.7245,-26.8764,-9.78674,0,0,0,1,1,1,1,inner,RITe,vtkMRMLScalarVolumeNode1
+26,77.6438,-27.0379,-9.37998,0,0,0,1,1,1,1,outer,RITe,vtkMRMLScalarVolumeNode1
+27,98.2468,-27.8264,-1.67985,0,0,0,1,1,1,1,bolt,RITe,vtkMRMLScalarVolumeNode1
+28,74.1744,-14.0507,-12.8109,0,0,0,1,1,1,1,inner,RAHc,vtkMRMLScalarVolumeNode1
+29,76.4898,-13.6239,-12.3392,0,0,0,1,1,1,1,outer,RAHc,vtkMRMLScalarVolumeNode1
+30,98.179,-11.1095,-8.53318,0,0,0,1,1,1,1,bolt,RAHc,vtkMRMLScalarVolumeNode1
+31,69.9306,-2.54808,-14.3657,0,0,0,1,1,1,1,inner,RAm,vtkMRMLScalarVolumeNode1
+32,72.7587,-2.38307,-14.0984,0,0,0,1,1,1,1,outer,RAm,vtkMRMLScalarVolumeNode1
+33,92.6478,0.340606,-10.6526,0,0,0,1,1,1,1,bolt,RAm,vtkMRMLScalarVolumeNode1

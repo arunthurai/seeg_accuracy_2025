@@ -1,0 +1,31 @@
+# Markups fiducial file version = 5.6
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+36.0,,,,0,1,1,1,1,LAm,target,,2,0
+36.5,,,,0,1,1,1,1,LAm,entry,,2,0
+25.1,,,,0,1,1,1,1,LAHc,target,,2,0
+26.7,,,,0,1,1,1,1,LAHc,entry,,2,0
+27.8,,,,0,1,1,1,1,LTeOp,target,,2,0
+35.6,,,,0,1,1,1,1,LTeOp,entry,,2,0
+8.7,,,,0,1,1,1,1,LPHc,target,,2,0
+-0.2,,,,0,1,1,1,1,LPHc,entry,,2,0
+55.1,,,,0,1,1,1,1,LPOFr,target,,2,0
+64.6,,,,0,1,1,1,1,LPOFr,entry,,2,0
+51.6,,,,0,1,1,1,1,LACg,target,,2,0
+55.3,,,,0,1,1,1,1,LACg,entry,,2,0
+25.3,,,,0,1,1,1,1,LPreRo,target,,2,0
+26.0,,,,0,1,1,1,1,LPreRo,entry,,2,0
+16.0,,,,0,1,1,1,1,LRo,target,,2,0
+16.8,,,,0,1,1,1,1,LRo,entry,,2,0
+3.7,,,,0,1,1,1,1,LSupM,target,,2,0
+3.9,,,,0,1,1,1,1,LSupM,entry,,2,0
+32.0,,,,0,1,1,1,1,LPIn,target,,2,0
+-37.8,,,,0,1,1,1,1,LPIn,entry,,2,0
+35.4,,,,0,1,1,1,1,LAIn,target,,2,0
+50.2,,,,0,1,1,1,1,LAIn,entry,,2,0
+41.4,,,,0,1,1,1,1,RAIn,target,,2,0
+42.7,,,,0,1,1,1,1,RAIn,entry,,2,0
+30.2,,,,0,1,1,1,1,RAm,target,,2,0
+27.5,,,,0,1,1,1,1,RAm,entry,,2,0
+5.4,,,,0,1,1,1,1,RAHc,target,,2,0
+-20.2,,,,0,1,1,1,1,RAHc,entry,,2,0

@@ -1,0 +1,45 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-19.6720,84.8110,99.0710,0,0,0,1,1,1,1,bolt,LAMesFr,vtkMRMLScalarVolumeNode1
+2,-18.3720,86.8410,71.9970,0,0,0,1,1,1,1,outer,LAMesFr,vtkMRMLScalarVolumeNode1
+3,-18.0820,87.7940,63.5010,0,0,0,1,1,1,1,inner,LAMesFr,vtkMRMLScalarVolumeNode1
+4,-29.6020,57.7520,104.5360,0,0,0,1,1,1,1,bolt,LPMesFr,vtkMRMLScalarVolumeNode1
+5,-22.2850,63.9320,81.4580,0,0,0,1,1,1,1,outer,LPMesFr,vtkMRMLScalarVolumeNode1
+6,-20.1080,65.5970,74.6780,0,0,0,1,1,1,1,inner,LPMesFr,vtkMRMLScalarVolumeNode1
+7,0.2970,93.3220,103.8830,0,0,0,1,1,1,1,bolt,LAIn,vtkMRMLScalarVolumeNode1
+8,-8.4250,81.2110,79.1000,0,0,0,1,1,1,1,outer,LAIn,vtkMRMLScalarVolumeNode1
+9,-11.0030,78.0110,72.7960,0,0,0,1,1,1,1,inner,LAIn,vtkMRMLScalarVolumeNode1
+10,-3.4530,-68.2020,78.1360,0,0,0,1,1,1,1,bolt,LPIn,vtkMRMLScalarVolumeNode1
+11,-10.5690,-46.1190,63.8890,0,0,0,1,1,1,1,outer,LPIn,vtkMRMLScalarVolumeNode1
+12,-12.1470,-41.5190,60.9230,0,0,0,1,1,1,1,inner,LPIn,vtkMRMLScalarVolumeNode1
+13,-92.2700,15.5680,0.7370,0,0,0,1,1,1,1,bolt,LAHc,vtkMRMLScalarVolumeNode1
+14,-71.2760,16.4610,-1.1240,0,0,0,1,1,1,1,outer,LAHc,vtkMRMLScalarVolumeNode1
+15,-68.8510,16.5850,-1.3240,0,0,0,1,1,1,1,inner,LAHc,vtkMRMLScalarVolumeNode1
+16,-98.9820,-2.0430,31.4690,0,0,0,1,1,1,1,bolt,LPHc,vtkMRMLScalarVolumeNode1
+17,-72.9550,-0.7440,22.5080,0,0,0,1,1,1,1,outer,LPHc,vtkMRMLScalarVolumeNode1
+18,-69.1740,-0.7350,21.1330,0,0,0,1,1,1,1,inner,LPHc,vtkMRMLScalarVolumeNode1
+19,-77.3150,68.9470,48.5730,0,0,0,1,1,1,1,bolt,LACg,vtkMRMLScalarVolumeNode1
+20,-59.3010,69.5790,42.7890,0,0,0,1,1,1,1,outer,LACg,vtkMRMLScalarVolumeNode1
+21,-52.5110,70.1290,40.9660,0,0,0,1,1,1,1,inner,LACg,vtkMRMLScalarVolumeNode1
+22,-81.8330,64.3410,25.1950,0,0,0,1,1,1,1,bolt,LPOFr,vtkMRMLScalarVolumeNode1
+23,-61.6020,65.8820,21.6350,0,0,0,1,1,1,1,outer,LPOFr,vtkMRMLScalarVolumeNode1
+24,-60.3130,65.9230,21.3970,0,0,0,1,1,1,1,inner,LPOFr,vtkMRMLScalarVolumeNode1
+25,-76.7540,78.1160,34.9070,0,0,0,1,1,1,1,bolt,LAOFr,vtkMRMLScalarVolumeNode1
+26,-58.0140,79.0990,26.4080,0,0,0,1,1,1,1,outer,LAOFr,vtkMRMLScalarVolumeNode1
+27,-54.7830,79.2960,25.1740,0,0,0,1,1,1,1,inner,LAOFr,vtkMRMLScalarVolumeNode1
+28,73.5390,78.0560,21.7270,0,0,0,1,1,1,1,bolt,ROFr,vtkMRMLScalarVolumeNode1
+29,53.4160,76.1040,17.8040,0,0,0,1,1,1,1,outer,ROFr,vtkMRMLScalarVolumeNode1
+30,51.9910,76.0340,17.4350,0,0,0,1,1,1,1,inner,ROFr,vtkMRMLScalarVolumeNode1
+31,91.2670,53.9700,0.9570,0,0,0,1,1,1,1,bolt,RAHc,vtkMRMLScalarVolumeNode1
+32,63.7430,43.4410,-4.4370,0,0,0,1,1,1,1,outer,RAHc,vtkMRMLScalarVolumeNode1
+33,62.0570,42.7280,-4.7930,0,0,0,1,1,1,1,inner,RAHc,vtkMRMLScalarVolumeNode1
+34,92.3300,18.0300,1.8680,0,0,0,1,1,1,1,bolt,RPHc,vtkMRMLScalarVolumeNode1
+35,71.2650,17.7560,0.0130,0,0,0,1,1,1,1,outer,RPHc,vtkMRMLScalarVolumeNode1
+36,69.9260,17.7370,-0.2380,0,0,0,1,1,1,1,inner,RPHc,vtkMRMLScalarVolumeNode1
+37,-95.3480,34.5080,-8.5910,0,0,0,1,1,1,1,bolt,LTePo,vtkMRMLScalarVolumeNode1
+38,-65.1130,38.3010,-8.6480,0,0,0,1,1,1,1,outer,LTePo,vtkMRMLScalarVolumeNode1
+39,-63.6530,38.4260,-8.6970,0,0,0,1,1,1,1,inner,LTePo,vtkMRMLScalarVolumeNode1
+40,-91.0920,26.6050,-6.8070,0,0,0,1,1,1,1,bolt,LAm,vtkMRMLScalarVolumeNode1
+41,-68.8890,28.9240,-6.0510,0,0,0,1,1,1,1,outer,LAm,vtkMRMLScalarVolumeNode1
+42,-67.5200,29.0640,-6.0620,0,0,0,1,1,1,1,inner,LAm,vtkMRMLScalarVolumeNode1

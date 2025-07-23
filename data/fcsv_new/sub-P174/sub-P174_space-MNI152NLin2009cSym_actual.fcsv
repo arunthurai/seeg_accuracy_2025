@@ -1,0 +1,29 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,17.1393,-3.26513,-24.5617,0,0,0,1,1,1,1,RAm,,vtkMRMLScalarVolumeNode1
+2,63.4215,0.712762,-28.9133,0,0,0,1,1,1,1,RAm,,vtkMRMLScalarVolumeNode1
+3,28.2491,-15.9127,-18.5902,0,0,0,1,1,1,1,RAHc,,vtkMRMLScalarVolumeNode1
+4,69.6887,-17.0956,-22.358,0,0,0,1,1,1,1,RAHc,,vtkMRMLScalarVolumeNode1
+5,26.8468,-26.0411,-13.5653,0,0,0,1,1,1,1,RPHc,,vtkMRMLScalarVolumeNode1
+6,70.5039,-22.7036,1.50298,0,0,0,1,1,1,1,RPHc,,vtkMRMLScalarVolumeNode1
+7,0.810675,-65.7223,45.598,0,0,0,1,1,1,1,RPrC,,vtkMRMLScalarVolumeNode1
+8,31.9064,-70.7221,61.4938,0,0,0,1,1,1,1,RPrC,,vtkMRMLScalarVolumeNode1
+9,8.31802,-49.0295,32.1173,0,0,0,1,1,1,1,RSCa,,vtkMRMLScalarVolumeNode1
+10,62.1465,-51.3719,32.5643,0,0,0,1,1,1,1,RSCa,,vtkMRMLScalarVolumeNode1
+11,4.7193,-73.8777,15.3086,0,0,0,1,1,1,1,RICaCg,,vtkMRMLScalarVolumeNode1
+12,51.6603,-73.6759,27.3196,0,0,0,1,1,1,1,RICaCg,,vtkMRMLScalarVolumeNode1
+13,40.7975,12.0972,-13.2104,0,0,0,1,1,1,1,RAIn,,vtkMRMLScalarVolumeNode1
+14,10.6644,35.2709,65.2363,0,0,0,1,1,1,1,RAIn,,vtkMRMLScalarVolumeNode1
+15,40.1324,-7.16959,-7.94603,0,0,0,1,1,1,1,RPIn,,vtkMRMLScalarVolumeNode1
+16,19.1057,-68.4689,70.5195,0,0,0,1,1,1,1,RPIn,,vtkMRMLScalarVolumeNode1
+17,8.25379,29.7915,-20.1045,0,0,0,1,1,1,1,ROFr,,vtkMRMLScalarVolumeNode1
+18,59.9759,38.6901,12.5678,0,0,0,1,1,1,1,ROFr,,vtkMRMLScalarVolumeNode1
+19,11.6001,-43.2185,3.49202,0,0,0,1,1,1,1,RLg,,vtkMRMLScalarVolumeNode1
+20,50.9366,-80.0272,9.99784,0,0,0,1,1,1,1,RLg,,vtkMRMLScalarVolumeNode1
+21,29.4609,-9.00377,14.4592,0,0,0,1,1,1,1,RC,,vtkMRMLScalarVolumeNode1
+22,71.7087,-14.8435,19.3666,0,0,0,1,1,1,1,RC,,vtkMRMLScalarVolumeNode1
+23,-22.2685,-16.2026,-19.0067,0,0,0,1,1,1,1,LAHc,,vtkMRMLScalarVolumeNode1
+24,-69.5317,-14.037,-21.0233,0,0,0,1,1,1,1,LAHc,,vtkMRMLScalarVolumeNode1
+25,32.585,3.49321,9.33808,0,0,0,1,1,1,1,RFrOp,,vtkMRMLScalarVolumeNode1
+26,67.1834,8.77468,4.30346,0,0,0,1,1,1,1,RFrOp,,vtkMRMLScalarVolumeNode1

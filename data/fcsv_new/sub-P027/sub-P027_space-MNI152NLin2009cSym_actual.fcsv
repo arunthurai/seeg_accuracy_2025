@@ -1,0 +1,31 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-20.692,-28.0103,-10.9089,0,0,0,1,1,1,1,LPHc,,vtkMRMLScalarVolumeNode2
+2,-68.1629,-41.4224,-4.6723,0,0,0,1,1,1,1,LPHc,,vtkMRMLScalarVolumeNode2
+3,-12.5606,-54.9468,-2.91813,0,0,0,1,1,1,1,LLg,,vtkMRMLScalarVolumeNode2
+4,-62.1245,-63.0676,-0.770526,0,0,0,1,1,1,1,LLg,,vtkMRMLScalarVolumeNode2
+5,-29.8767,-43.5047,18.682,0,0,0,1,1,1,1,LAng,,vtkMRMLScalarVolumeNode2
+6,-63.4908,-54.7663,26.8987,0,0,0,1,1,1,1,LAng,,vtkMRMLScalarVolumeNode2
+7,-34.2675,-30.9548,6.35318,0,0,0,1,1,1,1,LPTeOp,,vtkMRMLScalarVolumeNode2
+8,-67.7211,-35.5924,15.6483,0,0,0,1,1,1,1,LPTeOp,,vtkMRMLScalarVolumeNode2
+9,-30.1555,-17.4995,3.26343,0,0,0,1,1,1,1,LATeOp,,vtkMRMLScalarVolumeNode2
+10,-69.416,-13.0168,-0.297362,0,0,0,1,1,1,1,LATeOp,,vtkMRMLScalarVolumeNode2
+11,-2.07878,13.8824,32.3936,0,0,0,1,1,1,1,LAMiCg,,vtkMRMLScalarVolumeNode2
+12,-57.0062,15.7448,40.9395,0,0,0,1,1,1,1,LAMiCg,,vtkMRMLScalarVolumeNode2
+13,-6.71633,-14.7677,40.579,0,0,0,1,1,1,1,LLs,,vtkMRMLScalarVolumeNode2
+14,-57.9006,-14.9554,52.5917,0,0,0,1,1,1,1,LLs,,vtkMRMLScalarVolumeNode2
+15,-5.43913,-69.2735,-1.24985,0,0,0,1,1,1,1,LOInfC,,vtkMRMLScalarVolumeNode2
+16,-47.0201,-88.0,5.44554,0,0,0,1,1,1,1,LOInfC,,vtkMRMLScalarVolumeNode2
+17,-2.92568,-45.7271,25.8362,0,0,0,1,1,1,1,LPCg,,vtkMRMLScalarVolumeNode2
+18,-46.8919,-71.5027,47.7147,0,0,0,1,1,1,1,LPCg,,vtkMRMLScalarVolumeNode2
+19,-39.8638,-17.3464,18.5869,0,0,0,1,1,1,1,LFrOp,,vtkMRMLScalarVolumeNode2
+20,-64.6339,-7.10903,33.8138,0,0,0,1,1,1,1,LFrOp,,vtkMRMLScalarVolumeNode2
+21,-16.1309,-26.7492,34.9613,0,0,0,1,1,1,1,LParC,,vtkMRMLScalarVolumeNode2
+22,-9.65946,-20.3303,84.163,0,0,0,1,1,1,1,LParC,,vtkMRMLScalarVolumeNode2
+23,-12.8453,-3.85755,31.3711,0,0,0,1,1,1,1,LSMA,,vtkMRMLScalarVolumeNode2
+24,-15.6604,12.8153,74.6237,0,0,0,1,1,1,1,LSMA,,vtkMRMLScalarVolumeNode2
+25,-33.0104,-1.36042,-11.3861,0,0,0,1,1,1,1,LMidIn,,vtkMRMLScalarVolumeNode2
+26,-6.11253,17.1315,75.1794,0,0,0,1,1,1,1,LMidIn,,vtkMRMLScalarVolumeNode2
+27,-22.3664,-37.0604,33.0705,0,0,0,1,1,1,1,LPreCu,,vtkMRMLScalarVolumeNode2
+28,-12.5081,-64.6911,72.5577,0,0,0,1,1,1,1,LPreCu,,vtkMRMLScalarVolumeNode2

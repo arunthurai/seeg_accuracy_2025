@@ -1,0 +1,29 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,18.8507,-2.59785,-24.015,0,0,0,1,1,1,1,RAm,,vtkMRMLScalarVolumeNode1
+2,62.9742,0.987431,-27.0262,0,0,0,1,1,1,1,RAm,,vtkMRMLScalarVolumeNode1
+3,23.3195,-17.8179,-18.8344,0,0,0,1,1,1,1,RAHc,,vtkMRMLScalarVolumeNode1
+4,69.1144,-17.321,-20.9154,0,0,0,1,1,1,1,RAHc,,vtkMRMLScalarVolumeNode1
+5,26.8172,-26.0765,-13.7578,0,0,0,1,1,1,1,RPHc,,vtkMRMLScalarVolumeNode1
+6,70.4962,-22.6646,1.87991,0,0,0,1,1,1,1,RPHc,,vtkMRMLScalarVolumeNode1
+7,4.64358,-65.3873,45.2442,0,0,0,1,1,1,1,RPrC,,vtkMRMLScalarVolumeNode1
+8,32.8242,-70.5922,61.272,0,0,0,1,1,1,1,RPrC,,vtkMRMLScalarVolumeNode1
+9,7.56635,-48.8242,30.1884,0,0,0,1,1,1,1,RSCa,,vtkMRMLScalarVolumeNode1
+10,61.9757,-51.376,32.6522,0,0,0,1,1,1,1,RSCa,,vtkMRMLScalarVolumeNode1
+11,4.76283,-71.8966,15.0478,0,0,0,1,1,1,1,RICaCg,,vtkMRMLScalarVolumeNode1
+12,51.5408,-73.6919,27.3785,0,0,0,1,1,1,1,RICaCg,,vtkMRMLScalarVolumeNode1
+13,39.9544,11.7956,-13.7964,0,0,0,1,1,1,1,RAIn,,vtkMRMLScalarVolumeNode1
+14,11.4896,33.2814,64.7721,0,0,0,1,1,1,1,RAIn,,vtkMRMLScalarVolumeNode1
+15,40.299,-6.6474,-6.31914,0,0,0,1,1,1,1,RPIn,,vtkMRMLScalarVolumeNode1
+16,20.4577,-67.952,71.4817,0,0,0,1,1,1,1,RPIn,,vtkMRMLScalarVolumeNode1
+17,5.87358,28.6045,-20.0787,0,0,0,1,1,1,1,ROFr,,vtkMRMLScalarVolumeNode1
+18,60.1102,37.9861,12.4567,0,0,0,1,1,1,1,ROFr,,vtkMRMLScalarVolumeNode1
+19,11.9327,-45.1254,3.70666,0,0,0,1,1,1,1,RLg,,vtkMRMLScalarVolumeNode1
+20,50.458,-80.0504,10.5401,0,0,0,1,1,1,1,RLg,,vtkMRMLScalarVolumeNode1
+21,31.5793,-8.98046,15.3385,0,0,0,1,1,1,1,RC,,vtkMRMLScalarVolumeNode1
+22,71.6155,-15.1625,19.5064,0,0,0,1,1,1,1,RC,,vtkMRMLScalarVolumeNode1
+23,-21.2965,-17.8261,-18.9495,0,0,0,1,1,1,1,LAHc,,vtkMRMLScalarVolumeNode1
+24,-68.5538,-15.2272,-20.1834,0,0,0,1,1,1,1,LAHc,,vtkMRMLScalarVolumeNode1
+25,33.7298,3.99947,9.47735,0,0,0,1,1,1,1,RFrOp,,vtkMRMLScalarVolumeNode1
+26,67.1784,8.25443,5.04098,0,0,0,1,1,1,1,RFrOp,,vtkMRMLScalarVolumeNode1

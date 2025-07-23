@@ -1,0 +1,33 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-13.901,-3.4256,-23.7684,0,0,0,1,1,1,1,LAm,,vtkMRMLScalarVolumeNode45
+2,-69.4833,-8.08089,-19.7261,0,0,0,1,1,1,1,LAm,,vtkMRMLScalarVolumeNode45
+3,-21.5757,-17.0874,-23.0517,0,0,0,1,1,1,1,LAHc,,vtkMRMLScalarVolumeNode45
+4,-70.5615,-18.7064,2.60032,0,0,0,1,1,1,1,LAHc,,vtkMRMLScalarVolumeNode45
+5,-3.21441,33.7591,20.1432,0,0,0,1,1,1,1,LACg,,vtkMRMLScalarVolumeNode45
+6,-60.6512,19.2868,19.7081,0,0,0,1,1,1,1,LACg,,vtkMRMLScalarVolumeNode45
+7,-4.15889,21.2539,29.6305,0,0,0,1,1,1,1,LMidCg,,vtkMRMLScalarVolumeNode45
+8,-54.9446,18.2697,36.6085,0,0,0,1,1,1,1,LMidCg,,vtkMRMLScalarVolumeNode45
+9,-8.04763,6.82896,29.7454,0,0,0,1,1,1,1,LASSMAV,,vtkMRMLScalarVolumeNode45
+10,-22.2902,2.10036,76.5568,0,0,0,1,1,1,1,LASSMAV,,vtkMRMLScalarVolumeNode45
+11,-5.48726,-12.1959,29.4966,0,0,0,1,1,1,1,LPSSMA,,vtkMRMLScalarVolumeNode45
+12,-22.322,-21.8167,81.5342,0,0,0,1,1,1,1,LPSSMA,,vtkMRMLScalarVolumeNode45
+13,-40.3309,-26.4349,6.1353,0,0,0,1,1,1,1,LHs,,vtkMRMLScalarVolumeNode45
+14,-70.1532,-8.14528,0.982102,0,0,0,1,1,1,1,LHs,,vtkMRMLScalarVolumeNode45
+15,-20.1177,-31.6258,-16.1935,0,0,0,1,1,1,1,LPHc,,vtkMRMLScalarVolumeNode45
+16,-72.145,-39.2018,0.152545,0,0,0,1,1,1,1,LPHc,,vtkMRMLScalarVolumeNode45
+17,-4.03803,39.4966,-20.6076,0,0,0,1,1,1,1,LPOFr,,vtkMRMLScalarVolumeNode45
+18,-53.5643,41.3616,1.20065,0,0,0,1,1,1,1,LPOFr,,vtkMRMLScalarVolumeNode45
+19,-35.1306,12.8756,-15.9223,0,0,0,1,1,1,1,LAIn,,vtkMRMLScalarVolumeNode45
+20,-12.284,33.4816,64.9462,0,0,0,1,1,1,1,LAIn,,vtkMRMLScalarVolumeNode45
+21,-34.2998,-3.09649,15.2164,0,0,0,1,1,1,1,LAMidIn,,vtkMRMLScalarVolumeNode45
+22,-62.0517,2.39606,30.7015,0,0,0,1,1,1,1,LAMidIn,,vtkMRMLScalarVolumeNode45
+23,-38.1781,-22.7105,19.5774,0,0,0,1,1,1,1,LPMidIn,,vtkMRMLScalarVolumeNode45
+24,-65.0517,-9.49118,32.6432,0,0,0,1,1,1,1,LPMidIn,,vtkMRMLScalarVolumeNode45
+25,-42.3949,-0.391876,-9.51642,0,0,0,1,1,1,1,LPIn,,vtkMRMLScalarVolumeNode45
+26,-18.3567,-73.8787,63.4215,0,0,0,1,1,1,1,LPIn,,vtkMRMLScalarVolumeNode45
+27,-33.4332,-29.0794,17.6975,0,0,0,1,1,1,1,LPOperIn,,vtkMRMLScalarVolumeNode45
+28,-67.2498,-31.1343,30.7848,0,0,0,1,1,1,1,LPOperIn,,vtkMRMLScalarVolumeNode45
+29,-4.11169,15.2301,49.3128,0,0,0,1,1,1,1,LASSMAH,,vtkMRMLScalarVolumeNode45
+30,-56.817,0.606932,46.3063,0,0,0,1,1,1,1,LASSMAH,,vtkMRMLScalarVolumeNode45

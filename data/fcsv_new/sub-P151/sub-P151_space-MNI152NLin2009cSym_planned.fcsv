@@ -1,0 +1,31 @@
+# Markups fiducial file version = 4.11
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+-12.1,,,,0,1,1,1,1,LAm,target,,2,0
+-12.1,,,,0,1,1,1,1,LAm,entry,,2,0
+-21.1,,,,0,1,1,1,1,LAHc,target,,2,0
+-21.6,,,,0,1,1,1,1,LAHc,entry,,2,0
+-37.4,,,,0,1,1,1,1,LPHc,target,,2,0
+-49.2,,,,0,1,1,1,1,LPHc,entry,,2,0
+-43.4,,,,0,1,1,1,1,LTeTu,target,,2,0
+-40.6,,,,0,1,1,1,1,LTeTu,entry,,2,0
+-55.8,,,,0,1,1,1,1,LPCg,target,,2,0
+-59.8,,,,0,1,1,1,1,LPCg,entry,,2,0
+12.4,,,,0,1,1,1,1,LOFr,target,,2,0
+25.7,,,,0,1,1,1,1,LOFr,entry,,2,0
+0.2,,,,0,1,1,1,1,LAIn,target,,2,0
+-0.0,,,,0,1,1,1,1,LAIn,entry,,2,0
+-8.5,,,,0,1,1,1,1,RPFrTu,target,,2,0
+-14.2,,,,0,1,1,1,1,RPFrTu,entry,,2,0
+8.2,,,,0,1,1,1,1,RAFrTu,target,,2,0
+9.0,,,,0,1,1,1,1,RAFrTu,entry,,2,0
+20.0,,,,0,1,1,1,1,RACg,target,,2,0
+14.1,,,,0,1,1,1,1,RACg,entry,,2,0
+-15.0,,,,0,1,1,1,1,RAHc,target,,2,0
+-13.7,,,,0,1,1,1,1,RAHc,entry,,2,0
+-56.4,,,,0,1,1,1,1,ROcSCa,target,,2,0
+-84.5,,,,0,1,1,1,1,ROcSCa,entry,,2,0
+-63.9,,,,0,1,1,1,1,ROcICa,target,,2,0
+-80.4,,,,0,1,1,1,1,ROcICa,entry,,2,0
+-14.6,,,,0,1,1,1,1,LPIn,target,,2,0
+-81.7,,,,0,1,1,1,1,LPIn,entry,,2,0

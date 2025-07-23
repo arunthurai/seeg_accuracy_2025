@@ -1,0 +1,27 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,12.5936,-4.69659,-21.7042,0.0,0.0,0.0,1.0,1,1,1,RAm,,vtkMRMLScalarVolumeNode18
+2,66.3171,-12.7232,-24.9826,0.0,0.0,0.0,1.0,1,1,1,RAm,,vtkMRMLScalarVolumeNode18
+3,19.7087,-15.6546,-21.8929,0.0,0.0,0.0,1.0,1,1,1,RAHc,,vtkMRMLScalarVolumeNode18
+4,69.9175,-15.8638,-14.9964,0.0,0.0,0.0,1.0,1,1,1,RAHc,,vtkMRMLScalarVolumeNode18
+5,17.94,-35.1889,-9.42635,0.0,0.0,0.0,1.0,1,1,1,RPHc,,vtkMRMLScalarVolumeNode18
+6,71.3771,-34.8623,-2.83739,0.0,0.0,0.0,1.0,1,1,1,RPHc,,vtkMRMLScalarVolumeNode18
+7,40.0574,6.47128,-10.6782,0.0,0.0,0.0,1.0,1,1,1,RAIn,,vtkMRMLScalarVolumeNode18
+8,11.1807,51.4208,57.1957,0.0,0.0,0.0,1.0,1,1,1,RAIn,,vtkMRMLScalarVolumeNode18
+9,38.7366,-1.13789,-10.6547,0.0,0.0,0.0,1.0,1,1,1,RPIn,,vtkMRMLScalarVolumeNode18
+10,18.7486,-55.9794,79.3988,0.0,0.0,0.0,1.0,1,1,1,RPIn,,vtkMRMLScalarVolumeNode18
+11,-40.6349,-6.98243,-7.20432,0.0,0.0,0.0,1.0,1,1,1,LPIn,,vtkMRMLScalarVolumeNode18
+12,-14.0099,-62.7184,76.0738,0.0,0.0,0.0,1.0,1,1,1,LPIn,,vtkMRMLScalarVolumeNode18
+13,-37.4712,14.194,-11.9951,0.0,0.0,0.0,1.0,1,1,1,LAIn,,vtkMRMLScalarVolumeNode18
+14,-15.3949,37.9998,62.8685,0.0,0.0,0.0,1.0,1,1,1,LAIn,,vtkMRMLScalarVolumeNode18
+15,-5.45804,46.3892,-24.5389,0.0,0.0,0.0,1.0,1,1,1,LAOFr,,vtkMRMLScalarVolumeNode18
+16,-57.3681,42.1426,10.715,0.0,0.0,0.0,1.0,1,1,1,LAOFr,,vtkMRMLScalarVolumeNode18
+17,-13.4525,-4.01838,-23.3498,0.0,0.0,0.0,1.0,1,1,1,LAm,,vtkMRMLScalarVolumeNode18
+18,-67.4183,-7.76976,-16.8796,0.0,0.0,0.0,1.0,1,1,1,LAm,,vtkMRMLScalarVolumeNode18
+19,-20.5112,-33.1609,-13.3888,0.0,0.0,0.0,1.0,1,1,1,LPHc,,vtkMRMLScalarVolumeNode18
+20,-72.8184,-19.7431,3.11088,0.0,0.0,0.0,1.0,1,1,1,LPHc,,vtkMRMLScalarVolumeNode18
+21,-17.6025,-14.3288,-20.6445,0.0,0.0,0.0,1.0,1,1,1,LAHc,,vtkMRMLScalarVolumeNode18
+22,-70.4441,-18.5964,-13.8006,0.0,0.0,0.0,1.0,1,1,1,LAHc,,vtkMRMLScalarVolumeNode18
+23,2.65707,32.9509,-26.3286,0.0,0.0,0.0,1.0,1,1,1,RAOFr,,vtkMRMLScalarVolumeNode18
+24,59.853,34.4978,-2.37911,0.0,0.0,0.0,1.0,1,1,1,RAOFr,,vtkMRMLScalarVolumeNode18

@@ -1,0 +1,15 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-16.1005,-5.22043,-21.7913,0.0,0.0,0.0,1.0,1,1,1,LAm,,vtkMRMLScalarVolumeNode15
+2,-70.6934,-10.3428,-18.8052,0.0,0.0,0.0,1.0,1,1,1,LAm,,vtkMRMLScalarVolumeNode15
+3,-21.7632,-27.5402,-13.9518,0.0,0.0,0.0,1.0,1,1,1,LPHc,,vtkMRMLScalarVolumeNode15
+4,-72.8036,-31.3225,-7.46844,0.0,0.0,0.0,1.0,1,1,1,LPHc,,vtkMRMLScalarVolumeNode15
+5,-19.7229,-15.122,-18.5302,0.0,0.0,0.0,1.0,1,1,1,LAHc,,vtkMRMLScalarVolumeNode15
+6,-72.0198,-21.1288,-13.3661,0.0,0.0,0.0,1.0,1,1,1,LAHc,,vtkMRMLScalarVolumeNode15
+7,-4.60374,47.2555,-17.6562,0.0,0.0,0.0,1.0,1,1,1,LAOFr,,vtkMRMLScalarVolumeNode15
+8,-49.5105,46.6339,-2.77541,0.0,0.0,0.0,1.0,1,1,1,LAOFr,,vtkMRMLScalarVolumeNode15
+9,-2.65829,36.4051,-25.2739,0.0,0.0,0.0,1.0,1,1,1,LPOFr,,vtkMRMLScalarVolumeNode15
+10,-56.2064,36.0685,7.01183,0.0,0.0,0.0,1.0,1,1,1,LPOFr,,vtkMRMLScalarVolumeNode15
+11,-40.2556,11.2228,-13.5504,0.0,0.0,0.0,1.0,1,1,1,LAIn,,vtkMRMLScalarVolumeNode15
+12,-15.2916,-52.2294,78.3176,0.0,0.0,0.0,1.0,1,1,1,LAIn,,vtkMRMLScalarVolumeNode15

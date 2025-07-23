@@ -1,0 +1,17 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,37.9449,-37.0759,6.46064,0,0,0,1,1,1,1,RHsGy,,vtkMRMLScalarVolumeNode2
+2,67.1025,-23.2746,-8.00165,0,0,0,1,1,1,1,RHsGy,,vtkMRMLScalarVolumeNode2
+3,5.04647,-23.8274,33.3062,0,0,0,1,1,1,1,RPCPCg,,vtkMRMLScalarVolumeNode2
+4,66.7447,-21.2108,31.8159,0,0,0,1,1,1,1,RPCPCg,,vtkMRMLScalarVolumeNode2
+5,4.55297,-42.9477,25.8431,0,0,0,1,1,1,1,RPaPCg,,vtkMRMLScalarVolumeNode2
+6,51.4722,-76.4073,19.5287,0,0,0,1,1,1,1,RPaPCg,,vtkMRMLScalarVolumeNode2
+7,18.1963,-39.7872,-2.52473,0,0,0,1,1,1,1,RPHc,,vtkMRMLScalarVolumeNode2
+8,37.475,-93.2005,10.7972,0,0,0,1,1,1,1,RPHc,,vtkMRMLScalarVolumeNode2
+9,37.8097,-0.635895,-13.3544,0,0,0,1,1,1,1,RPIn,,vtkMRMLScalarVolumeNode2
+10,12.405,-74.2039,63.1084,0,0,0,1,1,1,1,RPIn,,vtkMRMLScalarVolumeNode2
+11,25.3207,-50.6513,32.705,0,0,0,1,1,1,1,RSPa,,vtkMRMLScalarVolumeNode2
+12,48.4985,-59.6517,49.9012,0,0,0,1,1,1,1,RSPa,,vtkMRMLScalarVolumeNode2
+13,37.4726,-2.61142,12.2786,0,0,0,1,1,1,1,ROpIn,,vtkMRMLScalarVolumeNode2
+14,66.4127,-12.2157,14.3915,0,0,0,1,1,1,1,ROpIn,,vtkMRMLScalarVolumeNode2
