@@ -1,24 +1,24 @@
-# Markups fiducial file version = 5.6
-# CoordinateSystem = LPS
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
 # columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
--11.850372956674027,,,,0,1,1,1,1,inner,RAm,vtkMRMLScalarVolumeNode3,2,0
--12.021450472655284,,,,0,1,1,1,1,outer,RAm,vtkMRMLScalarVolumeNode3,2,0
--12.825544239543651,,,,0,1,1,1,1,bolt,RAm,vtkMRMLScalarVolumeNode3,2,0
-2.071960566566979,,,,0,1,1,1,1,inner,RAHc,vtkMRMLScalarVolumeNode3,2,0
-2.3202315680168577,,,,0,1,1,1,1,outer,RAHc,vtkMRMLScalarVolumeNode3,2,0
-2.710928059672307,,,,0,1,1,1,1,bolt,RAHc,vtkMRMLScalarVolumeNode3,2,0
-20.953576114349037,,,,0,1,1,1,1,inner,RPHc,vtkMRMLScalarVolumeNode3,2,0
-21.93770555973396,,,,0,1,1,1,1,outer,RPHc,vtkMRMLScalarVolumeNode3,2,0
-23.763981456921563,,,,0,1,1,1,1,bolt,RPHc,vtkMRMLScalarVolumeNode3,2,0
--53.73287711559146,,,,0,1,1,1,1,inner,ROFr,vtkMRMLScalarVolumeNode3,2,0
--53.326022785526426,,,,0,1,1,1,1,outer,ROFr,vtkMRMLScalarVolumeNode3,2,0
--51.93690649162247,,,,0,1,1,1,1,bolt,ROFr,vtkMRMLScalarVolumeNode3,2,0
-19.6236074864862,,,,0,1,1,1,1,inner,RPIn,vtkMRMLScalarVolumeNode3,2,0
-24.507169205314938,,,,0,1,1,1,1,outer,RPIn,vtkMRMLScalarVolumeNode3,2,0
-29.88726176346161,,,,0,1,1,1,1,bolt,RPIn,vtkMRMLScalarVolumeNode3,2,0
--18.535341024930645,,,,0,1,1,1,1,inner,RTePo,vtkMRMLScalarVolumeNode3,2,0
--18.738636085466947,,,,0,1,1,1,1,outer,RTePo,vtkMRMLScalarVolumeNode3,2,0
--19.51229773102689,,,,0,1,1,1,1,bolt,RTePo,vtkMRMLScalarVolumeNode3,2,0
--41.93737228201884,,,,0,1,1,1,1,inner,RAIn,,2,0
--47.81471160348811,,,,0,1,1,1,1,outer,RAIn,,2,0
--54.77864870966022,,,,0,1,1,1,1,bolt,RAIn,,2,0
+1,66.3379,-0.822662,-26.0683,0,0,0,1,1,1,1,inner,RAm,
+2,69.0551,-0.465176,-25.6117,0,0,0,1,1,1,1,outer,RAm,
+3,86.1887,1.43126,-24.5054,0,0,0,1,1,1,1,bolt,RAm,
+4,70.5187,-15.9889,-19.5212,0,0,0,1,1,1,1,inner,RAHc,
+5,73.406,-15.9857,-18.9828,0,0,0,1,1,1,1,outer,RAHc,
+6,87.0087,-15.348,-16.6595,0,0,0,1,1,1,1,bolt,RAHc,
+7,68.479,-36.6714,-16.2381,0,0,0,1,1,1,1,inner,RPHc,
+8,74.3149,-36.9463,-15.7453,0,0,0,1,1,1,1,outer,RPHc,
+9,90.6057,-37.5723,-14.4583,0,0,0,1,1,1,1,bolt,RPHc,
+10,57.237,43.6549,-5.68719,0,0,0,1,1,1,1,inner,ROFr,
+11,60.2242,43.1474,-4.65494,0,0,0,1,1,1,1,outer,ROFr,
+12,73.7929,41.786,0.644602,0,0,0,1,1,1,1,bolt,ROFr,
+13,27.1127,-40.1541,77.7467,0,0,0,1,1,1,1,inner,RPIn,
+14,23.7788,-45.6707,90.1287,0,0,0,1,1,1,1,outer,RPIn,
+15,20.6004,-51.8439,104.965,0,0,0,1,1,1,1,bolt,RPIn,
+16,61.5981,6.39901,-30.6073,0,0,0,1,1,1,1,inner,RTePo,
+17,66.1236,6.88504,-29.0418,0,0,0,1,1,1,1,outer,RTePo,
+18,88.3247,8.63476,-21.7047,0,0,0,1,1,1,1,bolt,RTePo,
+19,32.8899,28.2923,59.407,0,0,0,1,1,1,1,inner,RAIn,
+20,31.6617,32.7004,72.2515,0,0,0,1,1,1,1,outer,RAIn,
+21,30.3264,39.226,88.061,0,0,0,1,1,1,1,bolt,RAIn,
