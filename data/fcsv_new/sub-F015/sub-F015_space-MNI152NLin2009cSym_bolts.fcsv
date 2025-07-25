@@ -1,0 +1,39 @@
+# Markups fiducial file version = GG
+# CoordinateSystem = RAS
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-68.34,-24.065,-13.6562,0,0,0,1,1,1,1,inner,LT2P,vtkMRMLScalarVolumeNode2
+2,-71.9183,-25.5716,-10.7807,0,0,0,1,1,1,1,outer,LT2P,vtkMRMLScalarVolumeNode2
+3,-92.0321,-31.4879,-1.81807,0,0,0,1,1,1,1,bolt,LT2P,vtkMRMLScalarVolumeNode2
+4,-70.2953,-19.8356,-2.37711,0,0,0,1,1,1,1,inner,LT2In,vtkMRMLScalarVolumeNode2
+5,-73.7814,-20.8847,-0.0876546,0,0,0,1,1,1,1,outer,LT2In,vtkMRMLScalarVolumeNode2
+6,-93.942,-24.5405,8.77825,0,0,0,1,1,1,1,bolt,LT2In,vtkMRMLScalarVolumeNode2
+7,-67.9095,-43.9486,-4.15547,0,0,0,1,1,1,1,inner,LAHc,vtkMRMLScalarVolumeNode2
+8,-72.9789,-45.6652,-3.03735,0,0,0,1,1,1,1,outer,LAHc,vtkMRMLScalarVolumeNode2
+9,-85.8772,-50.6314,0.590296,0,0,0,1,1,1,1,bolt,LAHc,vtkMRMLScalarVolumeNode2
+10,-57.1309,-74.5233,8.05359,0,0,0,1,1,1,1,inner,LOCC,vtkMRMLScalarVolumeNode2
+11,-64.9503,-77.3143,9.04122,0,0,0,1,1,1,1,outer,LOCC,vtkMRMLScalarVolumeNode2
+12,-76.8214,-81.5564,11.0536,0,0,0,1,1,1,1,bolt,LOCC,vtkMRMLScalarVolumeNode2
+13,-43.3195,40.6031,31.3566,0,0,0,1,1,1,1,inner,LACg,vtkMRMLScalarVolumeNode2
+14,-53.5452,44.5036,34.3432,0,0,0,1,1,1,1,outer,LACg,vtkMRMLScalarVolumeNode2
+15,-71.8621,52.006,41.3324,0,0,0,1,1,1,1,bolt,LACg,vtkMRMLScalarVolumeNode2
+16,-49.5691,17.19,45.7189,0,0,0,1,1,1,1,inner,LASMA,vtkMRMLScalarVolumeNode2
+17,-60.349,17.4042,46.2776,0,0,0,1,1,1,1,outer,LASMA,vtkMRMLScalarVolumeNode2
+18,-76.5681,18.1428,48.0541,0,0,0,1,1,1,1,bolt,LASMA,vtkMRMLScalarVolumeNode2
+19,-57.891,2.19943,40.9936,0,0,0,1,1,1,1,inner,LPCg,vtkMRMLScalarVolumeNode2
+20,-65.6257,3.73678,42.4071,0,0,0,1,1,1,1,outer,LPCg,vtkMRMLScalarVolumeNode2
+21,-84.1234,6.19913,45.4387,0,0,0,1,1,1,1,bolt,LPCg,vtkMRMLScalarVolumeNode2
+22,-48.0815,1.9007,54.4051,0,0,0,1,1,1,1,inner,LMiSMA,vtkMRMLScalarVolumeNode2
+23,-60.4031,1.32246,54.9198,0,0,0,1,1,1,1,outer,LMiSMA,vtkMRMLScalarVolumeNode2
+24,-79.9274,1.14272,58.1776,0,0,0,1,1,1,1,bolt,LMiSMA,vtkMRMLScalarVolumeNode2
+25,-52.4904,-20.0887,56.5301,0,0,0,1,1,1,1,inner,LPSMA,vtkMRMLScalarVolumeNode2
+26,-65.1817,-20.5192,57.1804,0,0,0,1,1,1,1,outer,LPSMA,vtkMRMLScalarVolumeNode2
+27,-83.4565,-21.3684,60.4544,0,0,0,1,1,1,1,bolt,LPSMA,vtkMRMLScalarVolumeNode2
+28,-19.0115,46.4901,50.2249,0,0,0,1,1,1,1,inner,LAIn,vtkMRMLScalarVolumeNode2
+29,-14.3706,53.3672,63.2272,0,0,0,1,1,1,1,outer,LAIn,vtkMRMLScalarVolumeNode2
+30,-8.86025,61.2724,79.252,0,0,0,1,1,1,1,bolt,LAIn,vtkMRMLScalarVolumeNode2
+31,-20.2249,-58.2237,73.6172,0,0,0,1,1,1,1,inner,LPIn,vtkMRMLScalarVolumeNode2
+32,-18.2762,-63.8328,82.1058,0,0,0,1,1,1,1,outer,LPIn,vtkMRMLScalarVolumeNode2
+33,-13.9247,-75.915,98.9207,0,0,0,1,1,1,1,bolt,LPIn,vtkMRMLScalarVolumeNode2
+34,-70.5417,-22.5551,12.0081,0,0,0,1,1,1,1,inner,LT1PIn,
+35,-75.2349,-23.3596,14.1231,0,0,0,1,1,1,1,outer,LT1PIn,
+36,-90.751,-25.7916,20.7424,0,0,0,1,1,1,1,bolt,LT1PIn,
