@@ -1,5 +1,5 @@
-# Markups fiducial file version = 5.6,,,,,,,,,,,,,
-# CoordinateSystem = RAS,,,,,,,,,,,,,
+# Markups fiducial file version = 5.6
+# CoordinateSystem = RAS
 # columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
 2,-56.6165323929862,-11.0279243295095,-2.71190902476524,0,0,0,1,1,1,0,inner,LAm,
 2,-57.8272549533752,-11.0224343962893,-3.00886776456657,0,0,0,1,1,1,0,outer,LAm,
